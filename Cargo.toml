@@ -1,0 +1,6 @@
+[package]
+name = "message_sender"
+version = "0.1.0"
+authors = ["sasol"]
+
+[dependencies]
