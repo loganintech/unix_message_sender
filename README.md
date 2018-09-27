@@ -1,0 +1,1 @@
+This was intended as a low overhead wrapper way to send messages using write but in reality it should just be a bash script because it's way too simple to warrant wrapping in rust. But thanks for reading. 
